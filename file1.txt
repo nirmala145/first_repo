@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-=======
- This is my first file and changing it.
- I  like blue color.
-
->>>>>>> master
